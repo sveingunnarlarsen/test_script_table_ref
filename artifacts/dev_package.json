@@ -1,0 +1,59 @@
+{
+	"id": "f1b5923b-3cab-ef11-9f37-b03cdca73631",
+	"createdAt": "2024-11-25T14:47:46.760Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/test_script_table_ref.git"
+	},
+	"name": "test_script_and_table",
+	"description": "Testing",
+	"ver": "24.11.25.1550",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "d9e9584a-3cab-ef11-9f37-b03cdca73631",
+			"name": "used_in_script",
+			"description": null
+		}
+	],
+	"jsclass": [
+		{
+			"id": "18ef7b58-3cab-ef11-9f37-b03cdca73631",
+			"name": "test",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "16ef7b58-3cab-ef11-9f37-b03cdca73631",
+			"name": "use_table",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

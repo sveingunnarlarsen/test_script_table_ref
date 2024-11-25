@@ -1,0 +1,23 @@
+{
+	"id": "d9e9584a-3cab-ef11-9f37-b03cdca73631",
+	"createdAt": "2024-11-25T14:48:11.990Z",
+	"createdBy": "admin",
+	"fields": [
+		{
+			"id": "78367daf-241a-46ad-9c48-56c95a88fe6f",
+			"fieldName": "test",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "used_in_script",
+	"description": null,
+	"ver": "24.11.25.1548",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "f1b5923b-3cab-ef11-9f37-b03cdca73631",
+	"rolesRead": [],
+	"rolesWrite": []
+}
